@@ -1,0 +1,21 @@
+{
+  "name": "three",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Road.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "your-dev-command-here"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyunraDate/three.js-Creamil.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HyunraDate/three.js-Creamil/issues"
+  },
+  "homepage": "https://github.com/HyunraDate/three.js-Creamil#readme"
+}
